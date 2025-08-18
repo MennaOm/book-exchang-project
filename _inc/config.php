@@ -5,5 +5,5 @@ define('DB_USER', 'root');
 define('DB_PASS', '');
 define('DB_NAME', 'book_exchange');
 define('APP_ENV', 'dev'); // dev | prod
-define('SQL_PORT', 3309); // Change if needed
+define('SQL_PORT', 3306); // Change if needed
 ?>
